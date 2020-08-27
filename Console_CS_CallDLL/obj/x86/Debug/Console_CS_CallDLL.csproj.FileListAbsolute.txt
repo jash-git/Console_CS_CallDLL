@@ -1,0 +1,5 @@
+D:\Visual project code\Console_CS_CallDLL\Console_CS_CallDLL\bin\Debug\Console_CS_CallDLL.exe
+D:\Visual project code\Console_CS_CallDLL\Console_CS_CallDLL\bin\Debug\Console_CS_CallDLL.pdb
+D:\Visual project code\Console_CS_CallDLL\Console_CS_CallDLL\obj\x86\Debug\Console_CS_CallDLL.exe
+D:\Visual project code\Console_CS_CallDLL\Console_CS_CallDLL\obj\x86\Debug\Console_CS_CallDLL.pdb
+D:\Visual project code\Console_CS_CallDLL\Console_CS_CallDLL\obj\x86\Debug\Console_CS_CallDLL.csprojResolveAssemblyReference.cache
